@@ -698,6 +698,7 @@ section,
   text-transform: uppercase;
   display: block;
   font-weight: 600;
+  font-size: medium;
   font-family: var(--heading-font);
 }
 
