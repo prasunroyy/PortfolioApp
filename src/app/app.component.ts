@@ -6,11 +6,10 @@ import { PortfolioComponent } from './portfolio/portfolio.component';
 import { ResumeComponent } from './resume/resume.component';
 import { SkillsComponent } from './skills/skills.component';
 import { HeroComponent } from "./hero/hero.component";
-import { StatsComponent } from "./stats/stats.component";
 
 @Component({
   selector: 'app-root',
-  imports: [AboutComponent, SkillsComponent, ResumeComponent, PortfolioComponent, ContactComponent, HeroComponent, StatsComponent],
+  imports: [AboutComponent, SkillsComponent, ResumeComponent, PortfolioComponent, ContactComponent, HeroComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })
