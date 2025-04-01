@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/PortfolioApp',
+  basePath: '/PortfolioApp/docs/browser',
   supportedLocales: {
   "en-US": ""
 },
