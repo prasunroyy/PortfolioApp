@@ -1,7 +1,7 @@
 export default `<!DOCTYPE html><html lang="en" data-beasties-container><head>
     <meta charset="utf-8">
     <title>PortfolioApp</title>
-    <base href="/PortfolioApp/docs/browser/">
+    <base href="/PortfolioApp/browser/">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="./assets/img/favicon.png" rel="icon">
     <link href="./assets/img/apple-touch-icon.png" rel="apple-touch-icon">
